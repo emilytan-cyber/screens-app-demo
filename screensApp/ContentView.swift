@@ -12,7 +12,7 @@ struct ContentView: View {
         ZStack {
             Color.teal
             VStack{
-                Text("no  onw")
+                Text("no")
                     .foregroundStyle(.white)
                     .font(.largeTitle)
                     .bold()
